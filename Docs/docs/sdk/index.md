@@ -53,5 +53,7 @@ To use the SDK, you will need to log in. To do so, navigate to `VRChat SDK > Sho
 
 Keep in mind that you must have a VRChat account of at least "New User" [Trust Rank](https://docs.vrchat.com/docs/vrchat-safety-and-trust-system) to upload content. You cannot use a Steam, Oculus, or Viveport account to upload content.
 
+You must have set up two-factor authentication on your account prior to accessing any version of SDK. It will ask for a code even if it's disabled on your account.
+
 ### What's Next?
 Your project is ready! You can move on to [World Creation](/worlds) or [Avatar Creation](/avatars).
